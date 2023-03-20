@@ -1,4 +1,4 @@
-<img style="height:100px" src="https://img.freepik.com/premium-vector/software-language-programmer-avatar_24877-767.jpg?w=2000"/>
+<img style="height:400px" src="https://img.freepik.com/premium-vector/software-language-programmer-avatar_24877-767.jpg?w=2000"/>
 ### Hi there Sagarika 👋
 
 <!--
