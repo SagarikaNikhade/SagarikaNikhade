@@ -1,4 +1,4 @@
-<img src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/images/cramcourse/full-stack-web-development.png"/>
+<img src="https://www.guvi.in/blog/wp-content/uploads/2021/02/Full-Stack-Developer.png"/>
 ### Hi there Sagarika 👋
 
 <!--
