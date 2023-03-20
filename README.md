@@ -1,4 +1,4 @@
-<img src="https://www.guvi.in/blog/wp-content/uploads/2021/02/Full-Stack-Developer.png"/>
+<img src="https://img.freepik.com/premium-vector/software-language-programmer-avatar_24877-767.jpg?w=2000"/>
 ### Hi there Sagarika 👋
 
 <!--
