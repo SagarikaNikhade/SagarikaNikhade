@@ -1,3 +1,4 @@
+<img src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/images/cramcourse/full-stack-web-development.png"/>
 ### Hi there Sagarika 👋
 
 <!--
