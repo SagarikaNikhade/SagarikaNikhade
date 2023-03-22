@@ -14,7 +14,7 @@ About Me:
 - 💬 Ask me about **HTML, CSS, JavaScript and React.**
 
 - 📫 How to reach me **sagarikanikhade073@gmail.com**
-- 👨‍💻 All my projects are available at wave2211.github.io
+- 👨‍💻 All my projects are available at https://github.com/wave2211/wave2211.github.io
 
 
            
