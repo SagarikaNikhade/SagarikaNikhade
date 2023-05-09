@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif)](https://wave2211.io)
+[![MasterHead](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif)]
 
 <h1 align="center">Hi 👋, I'm Sagarika Nikhade</h1>
     <h3 align="center" style="font-weight:bold">A Full Stack Web Developer skilled in MERN stack from India</h3>
