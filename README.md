@@ -1,5 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif)]
-
 <h1 align="center">Hi 👋, I'm Sagarika Nikhade</h1>
     <h3 align="center" style="font-weight:bold">A Full Stack Web Developer skilled in MERN stack from India</h3>
     <img align="left" alt="coding" width="400" src="https://img.freepik.com/premium-vector/software-language-programmer-avatar_24877-767.jpg?w=2000"> 
